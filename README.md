@@ -15,5 +15,5 @@ Compared the performance of both models using ROC-AUC and F1-score.
 
 ✅ **Key Insights:**
 
-Identified the top 10 features driving readmissions, including factors like number of inpatient visits, medication use, and age.
+* Identified the top 10 features driving readmissions, including factors like number of inpatient visits, medication use, and age.
 Visualized the models’ performance using confusion matrices and feature importance plots.
